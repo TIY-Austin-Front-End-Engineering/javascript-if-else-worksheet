@@ -1,0 +1,15 @@
+{
+    "name": "javascript-if-else-worksheet",
+    "version": "0.0.1",
+    "title": "JavaScript if/else worksheet",
+    "description": "Practice working with JavaScript if statements.",
+    "difficultyModes": [
+        "Normal"
+    ],
+    "keywords": [
+        "JavaScript",
+        "else",
+        "else if",
+        "if"
+    ]
+}
